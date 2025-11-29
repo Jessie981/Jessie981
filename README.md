@@ -3,7 +3,7 @@
 I'm **Jessie** — a full-stack engineer passionate about building scalable systems, crafting great user experiences, and solving complex technical problems.  
 I love working across the entire stack, from frontend UI/UX to backend microservices, DevOps pipelines, and cloud infrastructure.
 
-I work on a wide range of projects in my free time — from chatbot systems, cloud-native applications etc...
+I work on a wide range of projects in my free time — from chatbot systems, cloud-native applications etc...  
 Keep going 💪🔥
 
 ## 🛠️ Tech Stack & Skills
